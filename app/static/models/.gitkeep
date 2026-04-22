@@ -1,0 +1,11 @@
+# Placeholder - 请将 GLTF 模型文件放入本目录
+
+请从以下来源下载标准人体模型：
+- Mixamo: https://www.mixamo.com/
+- Sketchfab (CC license): https://sketchfab.com/
+
+推荐文件：
+- human_male_180cm.glb (1.8米男性)
+- human_female_170cm.glb (1.7米女性)
+
+详见 README.md
